@@ -1,0 +1,65 @@
+@font-face {
+    font-family: "oswald";
+    src: url(/fonts/oswald/Oswald-Regular.ttf);
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "oswald-light";
+    src: url(/fonts/oswald/Oswald-ExtraLight.ttf);
+    font-weight: 200;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Kodchasan:wght@200;500&family=Roboto&display=swap');
+
+html {
+    
+}
+
+
+h1 {
+    color: purple;
+    font-family: "'Kodchasan', sans-serif";
+    text-align: justify
+    
+
+}
+
+h3 {
+
+    font-family: 'roboto', sans-serif;
+}
+
+#bio-header {
+    color: brown;
+    
+}
+
+#skills-header {
+    color: cyan;
+    
+}
+
+.content {
+    color: grey;
+    font-size: 24px;
+    font-family: 'Roboto', sans-serif;
+    text-align: left;
+    line-height: normal;
+    font-weight: lighter;
+}
+.bold {
+    font-weight: bold;
+}
+
+.kép-div {
+    background-color: lightblue;
+}
+
+.light {
+    background-color: lightslategray;
+}
+img {
+    width: 300px;
+    
+}
